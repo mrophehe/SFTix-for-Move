@@ -44,7 +44,7 @@ SFTix leverages **Move Smart Contracts, AI, and SFTs (Semi-Fungible Tokens)** to
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-repo/SFTix
+git clone https://github.com/mrophehe/SFTix
 cd SFTix
 ```
 
